@@ -15,3 +15,8 @@ git clone *repository-clone-url*  testing this
 ## Added feature 3
 ## Added feature 4
 ## added feature 5
+## added feature 6
+
+## added sub feature on feature 6
+
+## added sub changes 2 on feature 6
