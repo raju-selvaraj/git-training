@@ -9,3 +9,5 @@ git clone *repository-clone-url*  testing this
 ##Made some change to see merge conflicts from Workspace 1
 
 ## Added feature 2
+
+## added feature
