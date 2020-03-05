@@ -6,5 +6,5 @@ git clone *repository-clone-url*  testing this
 
 ### difference between fetch and pull
 
-Editing file
+##Made some change to see merge conflicts from Workspace 1
 
