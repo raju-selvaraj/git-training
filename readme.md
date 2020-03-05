@@ -13,3 +13,4 @@ git clone *repository-clone-url*  testing this
 ## added feature
 
 ## Added feature 3
+## Added feature 4
